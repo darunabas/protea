@@ -1,3 +1,3 @@
 # Protea phenology and climate
 
-This repository includes R code and data to accompany the journal article: _Daru BH, Kling MM, Meineke EK, and van Wyk AE. Temperature controls phenology in continuously flowering Protea species of subtropical Africa. Applications in Plant Sciences. In press._
+This repository includes R code and data to accompany the journal article: Daru, B.H., Kling, M.M., Meineke, E.K. & van Wyk, A.E. (2019) Temperature controls phenology in continuously flowering Protea species of subtropical Africa. _Applications in Plant Sciences_ __7__: e1232
